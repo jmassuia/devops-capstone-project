@@ -1,10 +1,6 @@
 ---
 name: User Story
 about: User story to address features required in application
-title: ''
-labels: ''
-assignees: ''
-
 ---
 
 **As a** [role]  
